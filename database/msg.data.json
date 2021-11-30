@@ -1,0 +1,14 @@
+[
+  {
+    "key": {
+      "remoteJid": "6283809157951@s.whatsapp.net",
+      "fromMe": false,
+      "id": "7ADC70F2FD3B9158C3A215B852AD7E29"
+    },
+    "message": {
+      "conversation": "#menu"
+    },
+    "messageTimestamp": "1638309001",
+    "ephemeralOutOfSync": false
+  }
+]

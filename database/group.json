@@ -1,0 +1,32 @@
+[
+	{
+		"from": "6282223014661-1612197617@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "6283809157951-1630786583@g.us",
+		"offline": false,
+		"welcome": true,
+		"antilink": true,
+		"badword": false,
+		"antidelete": true,
+		"detect": true,
+		"viewOnce": true
+	},
+	{
+		"from": "120363020897116971@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	}
+]
