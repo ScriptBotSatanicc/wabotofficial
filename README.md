@@ -8,7 +8,8 @@ npm update
 npm i @adiwajshing/baileys@latest
 npm start
 ```
-Install run Vps / Heroku / Linux /CMD
+
+Install run Vps/Heroku/Railway/CMD/Replit
 
 ```
 git clone https://github.com/wahyudioputra/wabotofficial
