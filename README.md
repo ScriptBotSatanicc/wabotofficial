@@ -4,7 +4,6 @@ Install run Termux
 ```
 pkg install git nodejs ffmpeg imagemagick
 git clone https://github.com/wahyudioputra/wabotofficial
-npm install
 npm update
 npm i @adiwajshing/baileys@latest
 npm start
@@ -13,7 +12,6 @@ Install run Vps / Heroku / Linux /CMD
 
 ```
 git clone https://github.com/wahyudioputra/wabotofficial
-npm install
 npm update
 npm i @adiwajshing/baileys@latest
 npm start
