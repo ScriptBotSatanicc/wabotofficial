@@ -4,6 +4,7 @@ WhatsApp Chat Robot Node.js + Baileys api
 ```
 pkg install git nodejs ffmpeg imagemagick
 git clone https://github.com/wahyudioputra/wabotofficial
+cd wabotofficial
 npm update
 npm i @adiwajshing/baileys@latest
 npm start
@@ -21,6 +22,7 @@ Instal ImageMagick [`Click here`](https://imagemagick.org/script/download.php)
 
 ```
 git clone https://github.com/wahyudioputra/wabotofficial
+cd wabotofficial
 npm update
 npm i @adiwajshing/baileys@latest
 npm start
