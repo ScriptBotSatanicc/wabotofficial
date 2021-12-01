@@ -58,3 +58,15 @@ otherwise you can chat me on whatsapp [`Click here`](https://wa.me/6283809157951
 <img src="/Screenshot_2021-12-01-16-10-11-025_com.whatsapp.w4b.png" />
 </p>
 
+Thanks to
+```
+• Allah
+• Muhammad
+• Nabi & Rasulnya Allah SWT
+• Orang tua
+• KELUARGA
+• Sahabat
+• Teman
+• Team wabot-official
+• Maruf
+```
