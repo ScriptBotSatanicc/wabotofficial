@@ -25,12 +25,17 @@ npm update
 npm i @adiwajshing/baileys@latest
 npm start
 ```
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wahyudioputra/wabotofficial)
+
 ### Instal Buildpack
 * heroku/nodejs
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 * https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wahyudioputra/wabotofficial)
+```
+npm i @adiwajshing/baileys@latest
+npm start
+```
 
 Edit your name and change number [`Click here`](https://github.com/wahyudioputra/wabotofficial/blob/master/database/setting-bot.json)
 
