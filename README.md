@@ -1,4 +1,4 @@
-WhatsApp Robot Node.js + Baileys api
+WhatsApp Chat Robot Node.js + Baileys api
 
 ## Install run Termux
 ```
