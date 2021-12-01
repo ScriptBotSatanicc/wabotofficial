@@ -2,7 +2,7 @@ WhatsApp Chat Robot Node.js + Baileys api
 
 <p align="center">
   <a href="https://wahyudioputra.github.io/">
-<img src="/" />
+<img src="/Screenshot_2021-12-01-16-10-11-025_com.whatsapp.w4b.png" />
 </p>
 
 ## Install run Termux
