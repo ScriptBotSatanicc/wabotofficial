@@ -1,10 +1,5 @@
 WhatsApp Chat Robot Node.js + Baileys api
 
-<p align="center">
-  <a href="https://wahyudioputra.github.io/">
-<img src="/Screenshot_2021-12-01-16-10-11-025_com.whatsapp.w4b.png" />
-</p>
-
 ## Install run Termux
 ```
 pkg install git nodejs ffmpeg imagemagick
@@ -52,8 +47,14 @@ info me: [`Click here`](https://wahyudioputra.github.io/)
 
 don't forget to donate to grow next time if I'm not busy
 
-Credit : 6283809157951
+# ```COFFEE```
 
-Pulsa : 083809157951
+- [`SAWERIA`](https://saweria.co/sawerwahyu)
 
 otherwise you can chat me on whatsapp [`Click here`](https://wa.me/6283809157951)
+
+<p align="center">
+  <a href="https://wahyudioputra.github.io/">
+<img src="/Screenshot_2021-12-01-16-10-11-025_com.whatsapp.w4b.png" />
+</p>
+
